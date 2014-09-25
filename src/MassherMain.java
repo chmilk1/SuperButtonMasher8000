@@ -51,7 +51,6 @@ public class MassherMain implements KeyListener {
 
 	private void Run() {
 
-		playSound(sound.song1);
 		song = 1;
 		Old = JOptionPane.showOptionDialog(null, "Mordern or Medieval?",
 				"63686F7365", JOptionPane.OK_CANCEL_OPTION,
